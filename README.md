@@ -13,10 +13,9 @@ Algoritma yang digunakan adalah **K-Means Clustering**.
 ---
 
 ## 📁 Struktur Repository
-- **dataset/** → berisi file dataset Excel  
-- **notebook/** → file .ipynb utama  
-- **outputs/** → berisi model, grafik, dan hasil CSV  
-- **laporan/** → laporan tugas besar  
+- berisi file dataset Excel  
+- **notebook/** → file .ipynb utama   
+- **laporan tugas besar  
 - **LK_Perancangan_Proyek.pdf** → LK yang sudah diisi  
 - **README.md** → dokumentasi singkat project  
 
