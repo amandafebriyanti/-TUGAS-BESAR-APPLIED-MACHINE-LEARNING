@@ -51,11 +51,12 @@ Output yang dihasilkan:
 ---
 
 ## 📄 Laporan
-Laporan lengkap dapat dilihat pada folder **laporan**.
+Laporan lengkap dapat dilihat pada file Laporan_Amanda Febriyanti_105841101223_5A
 
 ---
 
 ## 👤 Identitas
-- Nama: Amanda Febriyanti  
+- Nama: Amanda Febriyanti
+- Nim : 105841101223 
 - Mata Kuliah: Applied Machine Learning  
 
